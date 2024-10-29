@@ -1,0 +1,10 @@
+{
+  "hue": 0,
+  "invert": false,
+  "pixelation": 24,
+  "bwThreshold": false,
+  "threshold": 0.5,
+  "horizontalGap": 0.28,
+  "verticalGap": 0.25,
+  "shapeType": "plus"
+}
