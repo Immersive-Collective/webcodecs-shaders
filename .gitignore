@@ -1,3 +1,9 @@
+*.psd
+*.pdf
+*.zip
+.DS_Store
+archive
+
 # Logs
 logs
 *.log

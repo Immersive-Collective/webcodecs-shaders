@@ -1,0 +1,10 @@
+{
+  "hue": 139,
+  "invert": true,
+  "pixelation": 13,
+  "bwThreshold": false,
+  "threshold": 0.5,
+  "horizontalGap": 0,
+  "verticalGap": 0,
+  "shapeType": "triangle"
+}
