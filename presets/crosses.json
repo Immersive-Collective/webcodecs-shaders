@@ -1,10 +1,10 @@
 {
   "hue": 0,
   "invert": false,
-  "pixelation": 24,
+  "pixelation": 6,
   "bwThreshold": false,
-  "threshold": 0.5,
-  "horizontalGap": 0.28,
+  "threshold": 0.1,
+  "horizontalGap": 0.23,
   "verticalGap": 0,
   "randomShape": false,  
   "sortSaturation": false,

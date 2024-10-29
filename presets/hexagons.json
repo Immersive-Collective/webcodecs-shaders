@@ -6,5 +6,10 @@
   "threshold": 0.55,
   "horizontalGap": 0,
   "verticalGap": 0,
-  "shapeType": "hexagon"
+  "randomShape": false,  
+  "sortSaturation": false,
+  "shapeType": "hexagon",
+  "redOffset": 0,
+  "greenOffset": 0,
+  "blueOffset": 0  
 }

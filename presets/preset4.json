@@ -6,5 +6,9 @@
   "threshold": 0.61,
   "horizontalGap": 0,
   "verticalGap": 0,
-  "shapeType": "square"
+  "randomShape": false, 
+  "shapeType": "square",
+  "redOffset": 0,
+  "greenOffset": 0,
+  "blueOffset": 0  
 }
